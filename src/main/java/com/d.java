@@ -6,5 +6,6 @@ public class d {
         System.out.println("wwwsad的");
         System.out.println("w3ad的");
         System.out.println("w4ad的");
+        System.out.println("hot-fix test!");
     }
 }
