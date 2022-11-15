@@ -7,5 +7,6 @@ public class d {
         System.out.println("w3ad的");
         System.out.println("w4ad的");
         System.out.println("master test");
+        System.out.println("hot-fix test!");
     }
 }
